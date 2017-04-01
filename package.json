@@ -1,0 +1,22 @@
+{
+    "name": "dans-oceanicnext",
+    "displayName": "Dans Oceanic Next",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "dansullivan86",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dans Oceanic Next",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic_Next.tmTheme"
+            }
+        ]
+    }
+}
