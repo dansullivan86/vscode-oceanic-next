@@ -1,7 +1,7 @@
 {
     "name": "dans-oceanicnext",
     "displayName": "Dans Oceanic Next",
-    "description": "",
+    "description": "Oceanic Next Theme for VS Code - with dimmed background and italics for Operator font",
     "version": "0.0.1",
     "publisher": "dansullivan86",
     "engines": {
@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/preview.png",
     "contributes": {
         "themes": [
             {
